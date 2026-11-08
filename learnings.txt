@@ -1,0 +1,7 @@
+1. Faced comaptibility issue on pyaudioop and downloaded these:-\
+In short:
+- audioop-lts → Fixed Python 3.13 compatibility with Pydub.
+- FFmpeg → Required for audio conversion.
+- Deno → Helps yt-dlp extract YouTube audio reliably.
+
+1. rate limit exceeding coming for istral api

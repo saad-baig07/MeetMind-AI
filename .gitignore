@@ -1,0 +1,39 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+temp/
+tmp/
+
+# Uploaded and generated media
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.mkv
+*.mov
+*.webm
+
+# Streamlit secrets
+.streamlit/secrets.toml
